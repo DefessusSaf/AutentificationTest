@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">chat</string>
+    <string name="Enter_name">Enter name</string>
+    <string name="Enter_email">Enter email</string>
+    <string name="label_sign_up">Sign up</string>
+    <string name="btn_sign_up">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="label_sign_in">Sign in</string>
+    <string name="Enter_password">Enter password</string>
+    <string name="Enter_confirm_password">Enter confirm password</string>
+</resources>
